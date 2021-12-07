@@ -1,0 +1,8 @@
+h1 {color: Blue; font-family: "Lucida Console", Monospace; text-align: center; 
+    border-style: dotted}
+    h2 {color:Brown;
+      font-family:"Verdana", sans-serif}
+    p {font-family: "Times New Roman",serif; 
+    }
+    .shadow-text{text-shadow: 2px 2px 4px }
+    html {background-color: mintcream}
